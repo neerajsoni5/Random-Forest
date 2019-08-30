@@ -1,4 +1,4 @@
-# Random-Forest with Excel Implmentation
+# Random-Forest with Excel Implimentation
 Classification 
 
 
